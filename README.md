@@ -19,3 +19,6 @@ Actualmente llevo como proyecto humorístico un proyecto en el que estoy recopil
 
 ## Próximamente
 Estoy interesada en hacer un robot muy simple que interactúe con elementos preparados de su entorno y se pueda controlar a través de otro dispositivo.
+
+### Contacto
+Correo: iestacio@alumnos.unex.es
