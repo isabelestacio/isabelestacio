@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bienvenido a mi perfil de GitHub
+Me llamo Isabel(ella/ellos) y soy una estudiante del grado de Ingeniería Informática de Computadores en la Universidad de Extremadura.
 
-<!--
-**isabelestacio/isabelestacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¿En qué consisten mis proyectos?
+Estoy muy interesada en la creación de pequeños dispositivos usando componentes como los microcontroladores *micro:bit*, *Arduino* y *ESP32*, por tanto en mi perfil habrá repositorios documentados sobre trabajos que haga con este.
 
-Here are some ideas to get you started:
+También me gusta mucho hacer repositorios usando los lenguajes de programación que aprendo y experimentando con estos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes que sé / estoy aprendiendo
+- C++
+- C++ simplificado para Arduino
+- C
+- Lua
+- Java
+- Scratch
+
+## En qué estoy trabajando
+Actualmente llevo como proyecto humorístico un proyecto en el que estoy recopilando cómo hacer "Hello World" en distintos lenguajes.
+
+## Próximamente
+Estoy interesada en hacer un robot muy simple que interactúe con elementos preparados de su entorno y se pueda controlar a través de otro dispositivo.
